@@ -1,0 +1,14 @@
+<html>
+
+<head></head>
+
+<body>
+  <?php
+  echo "Lizeth Anahi Pineda";
+  echo "<br>";
+  echo "14 de Febrero de 2006, Santa Ana, California";
+  echo "Decidi ingresar al cbta 18 debido a las recomendaciones de muchas personas, pues me comentaron el buen nivel educativo que posee esta escuela,ademas comparando la disciplina de otras instituciones y esta, el cbta es mas disciplinado y tranquilo, lo que mas me ha gustado de mi estadia es que ademas de que conoci muchos nuevos amigos y compañeros, he aprendido demasiadas cosas nuevas en todos los aspetos, y me ha permitido desarrollarme en un entorno tranquilo y relajado";
+  ?>
+</body>
+
+</html>
